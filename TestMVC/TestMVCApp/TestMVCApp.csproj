@@ -114,24 +114,6 @@
     <Folder Include="Models\" />
     <Folder Include="Views\Student\" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\TestMVC.Bll\TestMVC.Bll.csproj">
-      <Project>{ba7381a3-895a-45bc-956c-0cd1d1f495ad}</Project>
-      <Name>TestMVC.Bll</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TestMVC.DatabaseContext\TestMVC.DatabaseContext.csproj">
-      <Project>{f261cb8a-3564-4d2d-91c5-60c5b02be9ed}</Project>
-      <Name>TestMVC.DatabaseContext</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TestMVC.Models\TestMVC.Models.csproj">
-      <Project>{d2bc79df-0799-4df7-8ea1-ee7052ae13d5}</Project>
-      <Name>TestMVC.Models</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TestMVC\TestMVC.csproj">
-      <Project>{D67D8D56-72A7-4513-AAA1-47C3EEA67652}</Project>
-      <Name>TestMVC</Name>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -4,3 +4,9 @@ F:\BITM App\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.csprojAssemb
 F:\BITM App\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.csproj.CoreCompileInputs.cache
 F:\BITM App\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.dll
 F:\BITM App\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.pdb
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Repository\bin\Debug\TestMVC.Repository.dll
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Repository\bin\Debug\TestMVC.Repository.pdb
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.csproj.CoreCompileInputs.cache
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.dll
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.pdb
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.csprojAssemblyReference.cache

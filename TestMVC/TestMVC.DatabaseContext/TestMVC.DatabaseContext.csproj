@@ -60,10 +60,6 @@
       <Project>{d2bc79df-0799-4df7-8ea1-ee7052ae13d5}</Project>
       <Name>TestMVC.Models</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TestMVC\TestMVC.csproj">
-      <Project>{D67D8D56-72A7-4513-AAA1-47C3EEA67652}</Project>
-      <Name>TestMVC</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

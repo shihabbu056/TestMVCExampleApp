@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using TestMVC.Models;
+//using TestMVC.Models;
 
 namespace TestMVCApp.Controllers
 {
@@ -14,23 +14,23 @@ namespace TestMVCApp.Controllers
         {
             return View();
         }
-
+        [HttpGet]
         public ActionResult Add()
         {
             return View();
         }
-        [HttpPost]
-        public ActionResult Add(Student student)
-        {
-            return View();
-        }
+        //[HttpPost]
+        //public ActionResult Add()
+        //{
+        //    return View();
+        //}
 
         public ActionResult Update(int? id)
         {
             return View();
         }
         [HttpPost]
-        public ActionResult Update(Student student)
+        public ActionResult Update()
         {
             return View();
         }

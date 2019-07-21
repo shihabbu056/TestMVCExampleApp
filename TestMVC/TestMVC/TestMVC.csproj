@@ -290,16 +290,6 @@
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\TestMVC.Bll\TestMVC.Bll.csproj">
-      <Project>{ba7381a3-895a-45bc-956c-0cd1d1f495ad}</Project>
-      <Name>TestMVC.Bll</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TestMVC.Models\TestMVC.Models.csproj">
-      <Project>{d2bc79df-0799-4df7-8ea1-ee7052ae13d5}</Project>
-      <Name>TestMVC.Models</Name>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

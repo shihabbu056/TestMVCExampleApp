@@ -44,11 +44,5 @@
     <Compile Include="Bll\StudentManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\TestMVC.Repository\TestMVC.Repository.csproj">
-      <Project>{61457b8b-cff6-4c5c-b60b-abd96f3fffda}</Project>
-      <Name>TestMVC.Repository</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

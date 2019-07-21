@@ -4,3 +4,15 @@ F:\BITM App\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.csprojAssemblyRefere
 F:\BITM App\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.csproj.CoreCompileInputs.cache
 F:\BITM App\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.dll
 F:\BITM App\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.pdb
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\bin\Debug\TestMVC.Models.dll
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\bin\Debug\TestMVC.Models.pdb
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.csproj.CoreCompileInputs.cache
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.dll
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.pdb
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\bin\Debug\TestMVC.Models.dll.config
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\bin\Debug\EntityFramework.dll
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\bin\Debug\EntityFramework.xml
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.csproj.CopyComplete
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.csprojAssemblyReference.cache
