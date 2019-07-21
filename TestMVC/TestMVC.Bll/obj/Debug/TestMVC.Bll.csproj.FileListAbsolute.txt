@@ -1,0 +1,9 @@
+F:\BITM App\TestMVC\TestMVC.Bll\bin\Debug\TestMVC.Bll.dll
+F:\BITM App\TestMVC\TestMVC.Bll\bin\Debug\TestMVC.Bll.pdb
+F:\BITM App\TestMVC\TestMVC.Bll\obj\Debug\TestMVC.Bll.csprojAssemblyReference.cache
+F:\BITM App\TestMVC\TestMVC.Bll\obj\Debug\TestMVC.Bll.csproj.CoreCompileInputs.cache
+F:\BITM App\TestMVC\TestMVC.Bll\obj\Debug\TestMVC.Bll.dll
+F:\BITM App\TestMVC\TestMVC.Bll\obj\Debug\TestMVC.Bll.pdb
+F:\BITM App\TestMVC\TestMVC.Bll\bin\Debug\TestMVC.Repository.dll
+F:\BITM App\TestMVC\TestMVC.Bll\bin\Debug\TestMVC.Repository.pdb
+F:\BITM App\TestMVC\TestMVC.Bll\obj\Debug\TestMVC.Bll.csproj.CopyComplete

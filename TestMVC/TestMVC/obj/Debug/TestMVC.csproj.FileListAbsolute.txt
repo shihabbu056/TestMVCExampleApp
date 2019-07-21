@@ -1,0 +1,170 @@
+G:\BITM All App\TestMVC\TestMVC\bin\ApplicationInsights.config
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\csc.exe
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\System.Collections.Immutable.dll
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\System.Reflection.Metadata.dll
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\vbc.exe
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\VBCSCompiler.exe
+G:\BITM All App\TestMVC\TestMVC\bin\roslyn\VBCSCompiler.exe.config
+G:\BITM All App\TestMVC\TestMVC\bin\TestMVC.dll.config
+G:\BITM All App\TestMVC\TestMVC\bin\TestMVC.dll
+G:\BITM All App\TestMVC\TestMVC\bin\TestMVC.pdb
+G:\BITM All App\TestMVC\TestMVC\bin\Antlr3.Runtime.dll
+G:\BITM All App\TestMVC\TestMVC\bin\EntityFramework.dll
+G:\BITM All App\TestMVC\TestMVC\bin\EntityFramework.SqlServer.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AI.Agent.Intercept.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AI.DependencyCollector.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AI.Web.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AI.WindowsServer.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.ApplicationInsights.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Core.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Cookies.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Facebook.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Google.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.OAuth.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Twitter.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Web.Infrastructure.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Newtonsoft.Json.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Owin.dll
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.Helpers.dll
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.Mvc.dll
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.Optimization.dll
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.Razor.dll
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.WebPages.Deployment.dll
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.WebPages.dll
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.WebPages.Razor.dll
+G:\BITM All App\TestMVC\TestMVC\bin\WebGrease.dll
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AI.DependencyCollector.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AI.Web.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AI.WindowsServer.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.ApplicationInsights.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.Helpers.xml
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.Mvc.xml
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.Optimization.xml
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.Razor.xml
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.WebPages.xml
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.WebPages.Deployment.xml
+G:\BITM All App\TestMVC\TestMVC\bin\System.Web.WebPages.Razor.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Antlr3.Runtime.pdb
+G:\BITM All App\TestMVC\TestMVC\bin\Newtonsoft.Json.xml
+G:\BITM All App\TestMVC\TestMVC\bin\EntityFramework.xml
+G:\BITM All App\TestMVC\TestMVC\bin\EntityFramework.SqlServer.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Core.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Facebook.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Cookies.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Google.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Twitter.xml
+G:\BITM All App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\BITM All App\TestMVC\TestMVC\obj\Debug\TestMVC.csprojResolveAssemblyReference.cache
+G:\BITM All App\TestMVC\TestMVC\obj\Debug\TestMVC.dll
+G:\BITM All App\TestMVC\TestMVC\obj\Debug\TestMVC.pdb
+F:\BITM App\TestMVC\TestMVC\bin\ApplicationInsights.config
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\csc.exe
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\System.Collections.Immutable.dll
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\vbc.exe
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\VBCSCompiler.exe
+F:\BITM App\TestMVC\TestMVC\bin\roslyn\VBCSCompiler.exe.config
+F:\BITM App\TestMVC\TestMVC\bin\TestMVC.dll.config
+F:\BITM App\TestMVC\TestMVC\bin\TestMVC.dll
+F:\BITM App\TestMVC\TestMVC\bin\TestMVC.pdb
+F:\BITM App\TestMVC\TestMVC\bin\Antlr3.Runtime.dll
+F:\BITM App\TestMVC\TestMVC\bin\EntityFramework.dll
+F:\BITM App\TestMVC\TestMVC\bin\EntityFramework.SqlServer.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AI.Agent.Intercept.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AI.DependencyCollector.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AI.Web.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AI.WindowsServer.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.ApplicationInsights.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Google.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\BITM App\TestMVC\TestMVC\bin\Newtonsoft.Json.dll
+F:\BITM App\TestMVC\TestMVC\bin\Owin.dll
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.Helpers.dll
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.Mvc.dll
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.Optimization.dll
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.Razor.dll
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.WebPages.Deployment.dll
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.WebPages.dll
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.WebPages.Razor.dll
+F:\BITM App\TestMVC\TestMVC\bin\WebGrease.dll
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AI.DependencyCollector.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AI.Web.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AI.WindowsServer.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.ApplicationInsights.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.Helpers.xml
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.Mvc.xml
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.Optimization.xml
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.Razor.xml
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.WebPages.xml
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.WebPages.Deployment.xml
+F:\BITM App\TestMVC\TestMVC\bin\System.Web.WebPages.Razor.xml
+F:\BITM App\TestMVC\TestMVC\bin\Antlr3.Runtime.pdb
+F:\BITM App\TestMVC\TestMVC\bin\Newtonsoft.Json.xml
+F:\BITM App\TestMVC\TestMVC\bin\EntityFramework.xml
+F:\BITM App\TestMVC\TestMVC\bin\EntityFramework.SqlServer.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Google.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\BITM App\TestMVC\TestMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\BITM App\TestMVC\TestMVC\obj\Debug\TestMVC.csprojAssemblyReference.cache
+F:\BITM App\TestMVC\TestMVC\obj\Debug\TestMVC.csproj.CoreCompileInputs.cache
+F:\BITM App\TestMVC\TestMVC\obj\Debug\TestMVC.csproj.CopyComplete
+F:\BITM App\TestMVC\TestMVC\obj\Debug\TestMVC.dll
+F:\BITM App\TestMVC\TestMVC\obj\Debug\TestMVC.pdb
+F:\BITM App\TestMVC\TestMVC\bin\TestMVC.Bll.dll
+F:\BITM App\TestMVC\TestMVC\bin\TestMVC.Repository.dll
+F:\BITM App\TestMVC\TestMVC\bin\TestMVC.Bll.pdb
+F:\BITM App\TestMVC\TestMVC\bin\TestMVC.Repository.pdb
