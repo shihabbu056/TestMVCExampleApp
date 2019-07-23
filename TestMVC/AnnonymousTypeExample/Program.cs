@@ -4,14 +4,19 @@ using System.Linq;
 using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
+using TestMVC.DatabaseContext.DatabaseContext;
+using TestMVC.Models;
 
 namespace AnnonymousTypeExample
 {
     class Program
     {
         //delegate int CalculatorHandter(int firstNumber, int secondNumber);
+        
         static void Main(string[] args)
         {
+            DatabaseDbContext db = new DatabaseDbContext();
             List<Student> cus = new List<Student>()
             {
                  new Student(){StudentId = 01, FirstName = "Md. Shihab", LastName = "Uddin", RollNo = 2154, Email = "shihab@yahoo.com", Contact = 01741228876},
@@ -36,7 +41,7 @@ namespace AnnonymousTypeExample
                 select new {Name=p.Name, Price=p.Price+" Taka",Code=p.Name+p.Price};
             foreach (var c in retriveProductList)
             {
-                Console.WriteLine("Product Name"+"\t\t"+"Product Price"+"\t\tProduct Code"+Environment.NewLine+c.Name+"\t\t"+c.Price+"\t\t"+c.Code);
+                //Console.WriteLine("Product Name"+"\t\t"+"Product Price"+"\t\tProduct Code"+Environment.NewLine+c.Name+"\t\t"+c.Price+"\t\t"+c.Code);
             }
             //foreach (var c in customer)
             //{
@@ -53,6 +58,37 @@ namespace AnnonymousTypeExample
             
                 
             int result = addMethod(10, 52);
+
+            Student student = new Student();
+            student.FirstName = "Md. Shihab";
+            student.LastName = "Uddin";
+            student.Email = "shihabrpi15@yahoo.com";
+            student.RollNo = 201542;
+            student.Contact = 01741228876;
+            student.DepartmentId = 1;
+            db.Students.Add(student);
+
+            var departmentsList = db.Departments.ToList();
+            foreach (var department in departmentsList)
+            {
+                Console.WriteLine("Department Name : "+department.Name+" Department Code : "+department.Code);
+                if (department.Students!=null && department.Students.Any())
+                {
+                    foreach (var studentss in department.Students)
+                    {
+                        Console.WriteLine(studentss.FirstName+"\t"+studentss.LastName+"\t"+studentss.RollNo);
+                    }
+                }
+            }
+            //bool isSave = db.SaveChanges() > 0;
+            //if (isSave)
+            //{
+            //    Console.WriteLine("Successfully Save!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Save Failed!");
+            //}
             //ShowCustomer(customer);
             //Console.WriteLine(result);
             Console.ReadKey();

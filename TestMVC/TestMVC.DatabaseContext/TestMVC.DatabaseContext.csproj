@@ -49,6 +49,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatabaseContext\DatabaseDbContext.cs" />
+    <Compile Include="Migrations\201907231004044_initial_first.cs" />
+    <Compile Include="Migrations\201907231004044_initial_first.Designer.cs">
+      <DependentUpon>201907231004044_initial_first.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -60,6 +65,11 @@
       <Project>{d2bc79df-0799-4df7-8ea1-ee7052ae13d5}</Project>
       <Name>TestMVC.Models</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201907231004044_initial_first.resx">
+      <DependentUpon>201907231004044_initial_first.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

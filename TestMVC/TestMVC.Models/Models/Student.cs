@@ -15,5 +15,7 @@ namespace TestMVC.Models
         public string Email { get; set; }
         public long RollNo { get; set; }
         public long Contact { get; set; }
+        public int? DepartmentId { get; set; }
+        public Department Department { get; set; }
     }
 }

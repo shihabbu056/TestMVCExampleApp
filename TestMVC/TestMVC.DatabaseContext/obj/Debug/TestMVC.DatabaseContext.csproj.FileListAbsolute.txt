@@ -63,6 +63,7 @@ F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\bin\Debug\EntityFr
 F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
 F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\bin\Debug\TestMVC.Models.dll
 F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\bin\Debug\TestMVC.Models.pdb
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\bin\Debug\TestMVC.Models.dll.config
 F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\bin\Debug\EntityFramework.xml
 F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
 F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\obj\Debug\TestMVC.DatabaseContext.csprojAssemblyReference.cache
@@ -70,4 +71,5 @@ F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\obj\Debug\TestMVC.
 F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\obj\Debug\TestMVC.DatabaseContext.csproj.CopyComplete
 F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\obj\Debug\TestMVC.DatabaseContext.dll
 F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\obj\Debug\TestMVC.DatabaseContext.pdb
-F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\bin\Debug\TestMVC.Models.dll.config
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\obj\Debug\TestMVC.DatabaseContext.Migrations.initial_first.resources
+F:\BITM App\TestMVCExampleApp\TestMVC\TestMVC.DatabaseContext\obj\Debug\TestMVC.DatabaseContext.csproj.GenerateResource.cache
