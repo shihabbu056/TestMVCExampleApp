@@ -12,21 +12,76 @@ namespace MyMVCApp.Controllers
     {
         StudentManager _studentManager =new StudentManager();
         private Student _student = new Student();
-        
+
         // GET: Student
-        public string Add(Student student)
+        [HttpGet]
+        public ActionResult Add()
         {
-            //_student.ID = 101;
-            _student.Name = student.Name;
-            _student.Address = student.Address;
-            _student.Age = student.Age;
-            _studentManager.Add(_student);
-            return "Added";
+            return View(_studentManager.GetAll());
         }
+        [HttpPost]
+        public ActionResult Add(Student student)
+        {
+            if (ModelState.IsValid)
+            {
+                if (_studentManager.Add(student))
+                {
+                    ViewBag.SuccessMsg = "Saved.";
+                }
+                else
+                {
+                    ViewBag.FailMsg = "Vailed!";
+                }
+            }
+            else
+            {
+                ViewBag.FailMsg= "Validation Error!";
+            }
+
+            return View();
+        }
+        public ActionResult Edit(int id)
+        {
+            _student.ID = id;
+            var student = _studentManager.GetByID(_student);
+            return View(student);
+        }
+        [HttpPost]
+        public ActionResult Edit(Student student)
+        {
+            if (ModelState.IsValid)
+            {
+                if (_studentManager.Update(student))
+                {
+                    ViewBag.SuccessMsg = "Update Successfully.";
+                }
+                else
+                {
+                    ViewBag.FailMsg = "Update Vailed!";
+                }
+            }
+            else
+            {
+                ViewBag.FailMsg = "Validation Error!";
+            }
+
+            return View(student);
+        }
+        [HttpGet]
         public ActionResult Delete(int id)
         {
             _student.ID = id;
-            _studentManager.Delete(_student);
+            var student = _studentManager.GetByID(_student);
+            return View(student);
+        }
+        [HttpPost]
+        public ActionResult Delete(Student student)
+        {
+            
+            if (_studentManager.Delete(student))
+            {
+                ViewBag.DeleteConform = "Student delete conform.";
+            }
             return View();
         }
         public ActionResult Update(Student student)

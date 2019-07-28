@@ -40,6 +40,5 @@ F:\BITM App\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseC
 F:\BITM App\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CopyComplete
 F:\BITM App\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.dll
 F:\BITM App\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.pdb
-F:\BITM App\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.InitialCreate.resources
+F:\BITM App\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.Student_DataAnotation_added.resources
 F:\BITM App\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.GenerateResource.cache
-F:\BITM App\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.course_model_added.resources

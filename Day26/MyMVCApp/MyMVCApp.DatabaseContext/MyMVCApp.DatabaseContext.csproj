@@ -49,13 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatabaseContext\StudentDbContext.cs" />
-    <Compile Include="Migrations\201907250913000_InitialCreate.cs" />
-    <Compile Include="Migrations\201907250913000_InitialCreate.Designer.cs">
-      <DependentUpon>201907250913000_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201907251037084_course_model_added.cs" />
-    <Compile Include="Migrations\201907251037084_course_model_added.Designer.cs">
-      <DependentUpon>201907251037084_course_model_added.cs</DependentUpon>
+    <Compile Include="Migrations\201907280822594_Student_DataAnotation_added.cs" />
+    <Compile Include="Migrations\201907280822594_Student_DataAnotation_added.Designer.cs">
+      <DependentUpon>201907280822594_Student_DataAnotation_added.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -71,11 +67,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201907250913000_InitialCreate.resx">
-      <DependentUpon>201907250913000_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201907251037084_course_model_added.resx">
-      <DependentUpon>201907251037084_course_model_added.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201907280822594_Student_DataAnotation_added.resx">
+      <DependentUpon>201907280822594_Student_DataAnotation_added.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

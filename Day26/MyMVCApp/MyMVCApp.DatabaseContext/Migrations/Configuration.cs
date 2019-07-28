@@ -10,7 +10,6 @@ namespace MyMVCApp.DatabaseContext.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
-            ContextKey = "MyMVCApp.DatabaseContext.DatabaseContext.StudentDbContext";
         }
 
         protected override void Seed(MyMVCApp.DatabaseContext.DatabaseContext.StudentDbContext context)
